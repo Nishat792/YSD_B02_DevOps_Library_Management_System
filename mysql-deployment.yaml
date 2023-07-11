@@ -39,7 +39,7 @@ spec:
         - name: MYSQL_ROOT_PASSWORD
           value: password
         - name: MYSQL_DATABASE
-          value: chat
+          value: sparklmsdb
         - name: MYSQL_USER
           value: db_user
         - name: MYSQL_PASSWORD
