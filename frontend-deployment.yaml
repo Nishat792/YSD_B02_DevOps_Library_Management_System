@@ -34,7 +34,7 @@ spec:
     spec:
       containers:
       - name: webapp1
-        image: nishat792/YSD-library-management
+        image: nishat792/ysd-library-management
         imagePullPolicy: Always
         ports:
         - containerPort: 8081
